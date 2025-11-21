@@ -5,7 +5,7 @@
 body {
   background: #062489;
   font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   color: #cbe5ff;
   overflow-x: hidden;
 
@@ -143,7 +143,7 @@ a.single-about,
 }
 
 .main-menu li ul li a {
-  width: 150px;
+  width: 155px;
   padding: 10px;
   text-align: left;
   display: block;
